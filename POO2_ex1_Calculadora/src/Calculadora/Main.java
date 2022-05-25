@@ -44,6 +44,8 @@ public class Main {
                 equacao.exibirResultado();
                 break;
         }
+        
+        scanner.close();
 
     }
 }
