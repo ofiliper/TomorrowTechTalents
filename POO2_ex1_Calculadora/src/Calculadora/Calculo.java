@@ -24,6 +24,7 @@ class Calculo implements ICalculadora{
             }
         }while(cancelar != 0);
 
+        scanner.close();
     }
 
     @Override
