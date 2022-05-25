@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 
-Exercícios propostos em Aula do Móduto de POO 2
+Exercícios propostos em Aula do Módulo de POO 2
 
 ## :rocket: Tecnologias
 
